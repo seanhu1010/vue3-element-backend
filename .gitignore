@@ -139,8 +139,6 @@ dmypy.json
 cython_debug/
 
 # others
-*.jpg
-*.png
 *.sqlite3
 migrations/
 .idea/
